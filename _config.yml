@@ -1,0 +1,28 @@
+name: hOFF TO AFRICA
+favicon: null
+layout_spectrum: 0.3446440789848566
+typography_spectrum: 0.6472476907074451
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2462757017929107
+  lightness: 0.11863537039607763
+  saturation: 0.6453014074359089
+  rhythmicContrast: 0.49379321560263634
+purpose: []
